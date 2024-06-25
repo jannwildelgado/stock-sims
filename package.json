@@ -1,0 +1,20 @@
+{
+  "name": "stock-sims",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "kafkajs": "^2.2.4",
+    "lodash": "^4.17.21",
+    "pino": "^9.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
