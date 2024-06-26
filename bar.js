@@ -15,6 +15,8 @@ const DOWN = 1
 
 /** @type {Map<number, Category>} Map */
 const params = new Map()
+
+/** @type {Array.<number>} List of timers */
 const intervals = [2, 5, 10]
 
 process.stdin.on('data', (buff) => {
